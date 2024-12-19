@@ -23,10 +23,9 @@ def enter_key(event):
      Text_To_Speach()
 
 
-label1 = Label(root, text="Text To Speech", font=("Helvetica", 25, "bold"), bg="antiquewhite2").pack(pady=10)
-label2 = Label(root, text="Click Enter Or Play To Listen Your Text", font=("Helvetica", 20, "bold"), bg="antiquewhite2").pack(pady=10)
-label3 = Label(root, text="Enter Your Text", font=("Helvetica", 20, "bold"), bg="antiquewhite2").pack(pady=10)
-
+Label(root, text="Text To Speach", font=("Impact", 35,"bold"), bg="antiquewhite2").pack(pady=10)
+Label(root, text="Click Enter Or Play To Listen Your Text", font=("Helvetica", 20, "bold"), bg="antiquewhite2").pack(pady=10)
+Label(root, text="Enter Your Text", font=("Helvetica", 20, "bold"), bg="antiquewhite2").pack(pady=10)
 
 textbox = Entry(root, width=50)
 textbox.pack(pady=20)
