@@ -1,6 +1,6 @@
 ---
 ## This Porgram Convert Text-To-Voice By Sample GUI
-### Using Tkinter in Python
+### Using tkinter and pyttsx3 in Python
 ---
 ```python
 from tkinter import *
