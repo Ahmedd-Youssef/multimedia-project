@@ -1,5 +1,5 @@
 ---
-## This Porgram Convert Text-To-Voice
+## This Porgram Convert Text-To-Voice By Sample GUI
 ### Using Tkinter in Python
 ---
 ```python
